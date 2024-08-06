@@ -2,6 +2,7 @@
     padding: 5vw;
     height: 70vh;
     display: flex;
+    position: relative;
     align-items: center;
     background-color: #494949;
 }
@@ -38,6 +39,7 @@
 .title-about{
     color: white;
 }
+
 
 @media (max-width: 700px) {
 
