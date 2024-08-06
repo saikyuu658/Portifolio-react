@@ -38,7 +38,7 @@ function UpButton() {
 
     return (
         <div className="button-up showBox" 
-            ref={upButton}
+            ref={upButton as React.RefObject<HTMLDivElement>}
             onClick={()=>scrollToTop()}>
             <span className="material-symbols-outlined .button-up">
                 vertical_align_top
