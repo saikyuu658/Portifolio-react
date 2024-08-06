@@ -37,7 +37,7 @@ function UpButton() {
     }, []);
 
     return (
-        <div className="button-up showBox" 
+        <div className="button-up showBox " 
             ref={upButton as React.RefObject<HTMLDivElement>}
             onClick={()=>scrollToTop()}>
             <span className="material-symbols-outlined .button-up">
