@@ -1,6 +1,6 @@
 .body-about{
     padding: 5vw;
-    height: 70vh;
+    height: 50vh;
     display: flex;
     position: relative;
     align-items: center;
@@ -8,7 +8,6 @@
 }
 .content-about{
     width: 50vw;
-
 }
 
 .description-about{

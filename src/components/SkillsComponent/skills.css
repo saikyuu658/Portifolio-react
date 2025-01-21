@@ -70,6 +70,7 @@
     .content-skills {
         overflow-x: auto;
         flex-wrap: nowrap;
+        width: 90vw;
         justify-content: start;
     }  
     .body-skills {

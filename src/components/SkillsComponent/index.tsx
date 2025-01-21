@@ -11,6 +11,12 @@ function Skills() {
             age: '6 anos',
             img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png'
         },
+        
+        {
+            name: 'Node.js',
+            age: '4 anos',
+            img: 'https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png'
+        },
         {
             name: 'TypeScript',
             age: '4 anos',
@@ -43,10 +49,11 @@ function Skills() {
             age: '2 anos',
             img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png'
         },
+        
         {
-            name: 'Node.js',
-            age: '4 anos',
-            img: 'https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png'
+            name: 'React Native',
+            age: '1 ano',
+            img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png'
         },
         {
             name: 'Nest.js',

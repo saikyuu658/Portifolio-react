@@ -14,6 +14,16 @@ function Project() {
             img: 'https://www.creativefabrica.com/wp-content/uploads/2021/08/07/Image-Gallery-Icon-Graphics-15590538-1.jpg'
         },
         {
+            name: 'Style Pro',
+            describe: 'Gestão de salão, ou outros estabelecimentos com agendamentos, e metricas de serviço',
+            img: 'https://www.creativefabrica.com/wp-content/uploads/2021/08/07/Image-Gallery-Icon-Graphics-15590538-1.jpg'
+        },
+        {
+            name: 'Stakesheet',
+            describe: 'Venda de palpites, App de acompanhamento sobre apostas, bankroll',
+            img: 'https://www.creativefabrica.com/wp-content/uploads/2021/08/07/Image-Gallery-Icon-Graphics-15590538-1.jpg'
+        },
+        {
             name: 'Painel de Senhas',
             describe: 'Criação de senhas por setor, multiplos guichê, painel sonoro, administrativo de configuração de estilo',
             img: 'https://www.creativefabrica.com/wp-content/uploads/2021/08/07/Image-Gallery-Icon-Graphics-15590538-1.jpg'
