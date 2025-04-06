@@ -8,7 +8,7 @@
     grid-template-columns: 1fr 1fr 1fr 1fr;
     margin-block: 30px;
     justify-content: center;
-    gap: 10px;
+    gap: 25px;
 }
 
 .title-project {
@@ -23,6 +23,7 @@
     background-color: #242424;
     box-shadow: 0 5px 3px 3px #242424;
     border-radius: 10px;
+    padding: 25px;
     border: solid 1px #ffffff54;
     position: relative;
     overflow: hidden;

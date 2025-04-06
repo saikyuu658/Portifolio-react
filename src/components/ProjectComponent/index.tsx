@@ -60,7 +60,6 @@ function Project() {
     for (const [index, iterator] of projects.entries()) {
         project.push(
             <div className="card-project" key={index}>
-                <img src={iterator.img}  alt=""/>
                 <div className="messagem">
                     <span className="title">{iterator.name}</span>
                     <div className="desc" >
